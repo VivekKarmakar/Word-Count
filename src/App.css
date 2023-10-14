@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+.word-counter {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 75%;
+  border-width: 1px;
+  border-style: solid;
+ 
+}
+
+.word-counter1
+{
+  position: absolute;
+  left:35%;
+}
+
+.word-counter2
+{
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 4px;
+}
